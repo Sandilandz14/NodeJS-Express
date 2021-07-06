@@ -1,0 +1,3 @@
+Hello, this is second text file.
+
+I use this file for my Node.js example.
