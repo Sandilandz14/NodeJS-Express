@@ -4,6 +4,7 @@
 
 const { readFile, writeFile } = require("fs");
 
+
 readFile("./content/firstOne.txt", "utf8", (err, result) => {
   //callback function:check error, then access results
   if (err) {
